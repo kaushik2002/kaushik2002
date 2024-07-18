@@ -1,1 +1,4 @@
-- 👋 Hi, I’m @kaushik2002
+- Ex- UNSW CSE Student
+- Aspiring Full Stack Developer
+- Doing Front-End Projects Now
+- Concat me at: kaushik1001@hotmail.com
